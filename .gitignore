@@ -1,2 +1,4 @@
 lib
 .idea
+out
+.DS_Store
